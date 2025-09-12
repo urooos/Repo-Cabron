@@ -3,6 +3,10 @@
     margin: 0;
 }
 
+.first_button{
+    margin-top: 50vh;
+    display: flex;
+}
 button{
     background-color: tomato;
     color: #000;
