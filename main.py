@@ -1,4 +1,4 @@
-NOMBRE = "OSCAR"
+Nombre = "  Oscar Uriel Ibarra Govea"
 edad = "18"
 
-print (f"Te llamas {NOMBRE} y tienes {edad} años")
+print (f"Te llamas {Nombre} y tienes {edad} años")
